@@ -1,0 +1,12 @@
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csprojAssemblyReference.cache
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.AssemblyInfoInputs.cache
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.AssemblyInfo.cs
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.csproj.CoreCompileInputs.cache
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.deps.json
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.runtimeconfig.json
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.runtimeconfig.dev.json
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.dll
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/bin/Debug/netcoreapp3.1/lab6.pdb
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.dll
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.pdb
+/Users/elijah/БГТУ/2 Курс/КСиС/ComputerNetwork/lab6/lab6/obj/Debug/netcoreapp3.1/lab6.genruntimeconfig.cache
