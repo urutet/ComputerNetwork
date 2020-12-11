@@ -70,6 +70,11 @@ namespace lab6
                             break;
                         }
                     case "6":
+                        if (addr == null)
+                        {
+                            Console.WriteLine("IP Address and Subnet mask are empty.");
+                            break;
+                        }
                         if (addr.CheckAddress() == false || addr.CheckMask() == false)
                         {
                             Console.WriteLine("Correct your data.");
